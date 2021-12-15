@@ -1,6 +1,6 @@
 ![Blue and White Architect LinkedIn Banner](https://user-images.githubusercontent.com/69286570/146133346-806fc4ca-634f-454d-ae19-614f9744758c.png)
 
-![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=281clo&show_icons=true&theme=radical)
+***
 
 <!--
 **281clo/281clo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,4 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="https://github-readme-stats.vercel.app/api?username=281clo&show_icons=true&theme=radical&hide_border=true" alt="github stats" width="45%" align="left"/>
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=281clo&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" >
