@@ -1,3 +1,4 @@
+![Blue and White Architect LinkedIn Banner](https://user-images.githubusercontent.com/69286570/146133346-806fc4ca-634f-454d-ae19-614f9744758c.png)
 ### Hi there 👋
 
 <!--
@@ -14,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
