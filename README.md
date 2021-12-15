@@ -1,5 +1,4 @@
 ![Blue and White Architect LinkedIn Banner](https://user-images.githubusercontent.com/69286570/146133346-806fc4ca-634f-454d-ae19-614f9744758c.png)
-### Hi there 👋
 
 [![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=281clo)](https://github.com/281clo/github-readme-stats)
 
