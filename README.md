@@ -1,6 +1,6 @@
 ![Blue and White Architect LinkedIn Banner](https://user-images.githubusercontent.com/69286570/146133346-806fc4ca-634f-454d-ae19-614f9744758c.png)
 
-[![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=281clo)](https://github.com/281clo/github-readme-stats)
+![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=281clo&show_icons=true&theme=radical)
 
 <!--
 **281clo/281clo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
