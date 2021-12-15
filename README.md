@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 
 ***
 
-<a href="www.linkedin.com/in/carlos-mccrum">
-  <img src="https://user-images.githubusercontent.com/69286570/146158828-8fa134c1-6c44-4dde-9e0e-6e7ee44079a4.png" alt="LinkedIn" style="width:42px;height:42px;">
-</a>
+
+[<img src="https://user-images.githubusercontent.com/69286570/146158828-8fa134c1-6c44-4dde-9e0e-6e7ee44079a4.png" alt="LinkedIn" style="width:42px;height:42px;">](https://www.linkedin.com/in/carlos-mccrum)
+
