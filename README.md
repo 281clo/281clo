@@ -1,5 +1,4 @@
-![Blue and White Architect LinkedIn Banner](https://user-images.githubusercontent.com/69286570/146133346-806fc4ca-634f-454d-ae19-614f9744758c.png)
-
+![Blue and White Architect LinkedIn Banner-2](https://user-images.githubusercontent.com/69286570/146539510-b72c4167-1cb7-43c5-b076-050ce5d56c5c.png)
 ***
 
 <!--
