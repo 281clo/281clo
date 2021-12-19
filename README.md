@@ -9,7 +9,7 @@ Hey there, my name is Carlos McCrum and I am a Jr Data Scientist recently gradua
 
 - 🤔 I’m looking for opportunities to utilize my skills and grow with a company or maybe meet some new people to collaborate with!
 
-- 💬 Ask me about my interests in cryptocurrencies or what I like to do for fun.
+- 💬 Ask me about my interests in cryptocurrencies
 
 - 📫 How to reach me: carlosmccrum@gmail.com - [LinkedIn](www.linkedin.com/in/carlos-mccrum)
 
