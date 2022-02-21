@@ -1,4 +1,6 @@
-![Blue and White Architect LinkedIn Banner-2](https://user-images.githubusercontent.com/69286570/146539510-b72c4167-1cb7-43c5-b076-050ce5d56c5c.png)
+
+![Blue and White Architect LinkedIn Banner](https://user-images.githubusercontent.com/69286570/154997961-09357bba-49c0-45c2-9748-c4867bb90c5f.png)
+
 ***
 
 Hey there, my name is Carlos McCrum and I am a Jr Data Scientist recently graduated from Flatiron School Data Science program (12/2021). 
