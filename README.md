@@ -3,7 +3,7 @@
 
 ***
 
-Hey there, my name is Carlos McCrum and I am a Jr Data Scientist recently graduated from Flatiron School Data Science program (12/2021). 
+Hey there, my name is Carlos McCrum and I am a Jr Data Engineer recently graduated from Flatiron School in Data Science. Currently working at Talent Path as a Jr. Data Engineer.
 
 - 🔭 I’m currently working on enriching my understanding in deep machine learning and data analytics.
 
