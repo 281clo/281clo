@@ -15,7 +15,6 @@ Hey there, my name is Carlos McCrum and I am a Jr Data Engineer recently graduat
 
 - 📫 How to reach me: carlosmccrum@gmail.com - [LinkedIn](www.linkedin.com/in/carlos-mccrum)
 
-- ⚡ Fun fact about me: My favorite pastime when I was younger was building custom rockets from the hobby store with friends & family and trying to catch them as they parachute down.
 - :parachute: 
 
 
