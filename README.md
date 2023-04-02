@@ -1,17 +1,16 @@
 
-![Blue and White Architect LinkedIn Banner](https://user-images.githubusercontent.com/69286570/154997961-09357bba-49c0-45c2-9748-c4867bb90c5f.png)
+![Blue and White Architect LinkedIn Banner](https://user-images.githubusercontent.com/69286570/229329004-f01e326a-0889-495a-9474-d4bbda32b1bb.png)
 
-***
+*** 
 
-Hey there, my name is Carlos McCrum and I am a Jr Data Engineer recently graduated from Flatiron School in Data Science. Currently working at Talent Path as a Jr. Data Engineer.
 
-- 🔭 I’m currently working on enriching my understanding in deep machine learning and data analytics.
+Hey there, my name is Carlos McCrum and I am a Data Engineer graduated from Flatiron School in Data Science. I am open to work 
 
-- 🌱 I’m currently learning Amazon AWS & Spark.
+- 🔭 I’m currently working on enriching my understanding in Big Data and Data Analytics.
+
+- 🌱 I’m currently learning Amazon AWS & CI/CD Automation.
 
 - 🤔 I’m looking for opportunities to utilize my skills and grow with a company or maybe meet some new people to collaborate with!
-
-<!-- 💬 Ask me about my interests in cryptocurrencies -->
 
 - 📫 How to reach me: carlosmccrum@gmail.com - [LinkedIn](www.linkedin.com/in/carlos-mccrum)
 
